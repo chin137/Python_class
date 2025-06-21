@@ -31,4 +31,6 @@ print(a2)
 print(Animal.count)
 print(a1.eat())
 print(a2.eat())
+print("We are going to learn a few things from now related to Git")
+
 		
